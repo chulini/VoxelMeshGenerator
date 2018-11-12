@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\chuli\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\chuli\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_VoxelMeshGenerator.597695711.00" t="ExcludeRecursive" />
+    <e p="C:\Users\chuli\Desktop\github\VoxelMeshGenerator" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Fonts" t="Include">
+          <e p="OFL 1.txt" t="Include" />
+          <e p="OFL 2.txt" t="Include" />
+          <e p="OFL.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BlockCoordDrawState.cs" t="Include" />
+          <e p="BlockCoordinate.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="ExtensionMethods.cs" t="Include" />
+          <e p="External Scripts" t="Include">
+            <e p="MeshSerializer.cs" t="Include" />
+            <e p="ThreadedJob.cs" t="Include" />
+          </e>
+          <e p="Game.cs" t="Include" />
+          <e p="GreedyMeshGenerator.cs" t="Include" />
+          <e p="HDDResources.cs" t="Include" />
+          <e p="IntArrayFromTexture.cs" t="Include" />
+          <e p="Map.cs" t="Include" />
+          <e p="Palette.cs" t="Include" />
+          <e p="UIButtonOnClickOpenURL.cs" t="Include" />
+          <e p="UIColorPicker.cs" t="Include" />
+          <e p="UIDrawableLayer.cs" t="Include" />
+          <e p="UIImagePointerClickToPixel.cs" t="Include" />
+          <e p="UILayerDrawer.cs" t="Include" />
+          <e p="UIMultipleShadows.cs" t="Include" />
+        </e>
+        <e p="Skybox" t="Include">
+          <e p="README.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="VoxelMeshGenerator.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

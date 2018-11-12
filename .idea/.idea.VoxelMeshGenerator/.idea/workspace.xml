@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="795a3eb2-6ffc-4db7-b595-1c55ac8d07df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-64944349">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <marker date="1542004306150" expanded="false" signature="7:41" ph="..." />
+                <marker date="1542004306150" expanded="true" signature="43:137" ph="/// Switches the drawable layers using the next and prev buttons  ... " />
+                <marker date="1542004306150" expanded="true" signature="180:3964" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="417:506" ph="/// The int value of the color that will be painting ... " />
+                <marker date="1542004306150" expanded="true" signature="625:1129" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="738:889" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="937:1121" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1163:1327" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1345:1761" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1396:1722" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1767:1864" ph="/// Invoke clicks un prev/next buttons when axises are moved ... " />
+                <marker date="1542004306150" expanded="true" signature="1900:2589" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1933:2463" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="1994:2068" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2125:2199" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2249:2323" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2378:2452" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2595:2779" ph="/// Before _selectedLayer layer ==&gt; enable visibility ... " />
+                <marker date="1542004306150" expanded="true" signature="2813:3861" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2878:3855" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="2924:3064" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="3094:3689" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="3125:3325" ph="/* _uiDrawableLayers[i].enabled = true; ... */" />
+                <marker date="1542004306150" expanded="true" signature="3706:3845" ph="{...}" />
+                <marker date="1542004306150" expanded="true" signature="3880:3962" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <folding>
+                <marker date="1542004386310" expanded="true" signature="6:40" ph="..." />
+                <marker date="1542004386310" expanded="true" signature="42:143" ph="/// Enables the player to click and paint a Texture2D ... " />
+                <marker date="1542004386310" expanded="true" signature="280:2843" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="449:602" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="501:596" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="630:813" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="684:807" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="902:1091" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1109:1435" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1187:1272" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1346:1427" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1440:1556" ph="/// Initializes the class ... " />
+                <marker date="1542004386310" expanded="true" signature="1590:1656" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1683:1762" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="1768:1848" ph="/// Store the integer in the selected layer ... " />
+                <marker date="1542004386310" expanded="true" signature="1902:2838" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="2112:2769" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="2164:2759" ph="{...}" />
+                <marker date="1542004386310" expanded="true" signature="2568:2745" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UnityEditor.Build</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="795a3eb2-6ffc-4db7-b595-1c55ac8d07df" name="Default Changelist" comment="" />
+      <created>1542004264078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542004264078</updated>
+      <workItem from="1542004270147" duration="40000" />
+      <workItem from="1542004353653" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947807" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UIDrawableLayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <folding>
+            <marker date="1542004386310" expanded="true" signature="6:40" ph="..." />
+            <marker date="1542004386310" expanded="true" signature="42:143" ph="/// Enables the player to click and paint a Texture2D ... " />
+            <marker date="1542004386310" expanded="true" signature="280:2843" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="449:602" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="501:596" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="630:813" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="684:807" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="902:1091" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1109:1435" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1187:1272" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1346:1427" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1440:1556" ph="/// Initializes the class ... " />
+            <marker date="1542004386310" expanded="true" signature="1590:1656" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1683:1762" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="1768:1848" ph="/// Store the integer in the selected layer ... " />
+            <marker date="1542004386310" expanded="true" signature="1902:2838" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="2112:2769" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="2164:2759" ph="{...}" />
+            <marker date="1542004386310" expanded="true" signature="2568:2745" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UILayerDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1542004306150" expanded="false" signature="7:41" ph="..." />
+            <marker date="1542004306150" expanded="true" signature="43:137" ph="/// Switches the drawable layers using the next and prev buttons  ... " />
+            <marker date="1542004306150" expanded="true" signature="180:3964" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="417:506" ph="/// The int value of the color that will be painting ... " />
+            <marker date="1542004306150" expanded="true" signature="625:1129" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="738:889" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="937:1121" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1163:1327" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1345:1761" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1396:1722" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1767:1864" ph="/// Invoke clicks un prev/next buttons when axises are moved ... " />
+            <marker date="1542004306150" expanded="true" signature="1900:2589" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1933:2463" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="1994:2068" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2125:2199" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2249:2323" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2378:2452" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2595:2779" ph="/// Before _selectedLayer layer ==&gt; enable visibility ... " />
+            <marker date="1542004306150" expanded="true" signature="2813:3861" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2878:3855" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="2924:3064" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="3094:3689" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="3125:3325" ph="/* _uiDrawableLayers[i].enabled = true; ... */" />
+            <marker date="1542004306150" expanded="true" signature="3706:3845" ph="{...}" />
+            <marker date="1542004306150" expanded="true" signature="3880:3962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

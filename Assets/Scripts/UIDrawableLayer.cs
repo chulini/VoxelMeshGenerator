@@ -1,7 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-using UnityEditor.Build;
-using UnityEngine;
-using UnityEngine.EventSystems;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 /// <inheritdoc />
