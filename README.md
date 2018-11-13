@@ -4,3 +4,4 @@ https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/
 
 Uses a palette of colors from a texture and stores the layers as png images.
 
+![Example in gif...](https://media.giphy.com/media/w7SEXpaHlbgradmRmf/giphy.gif)
