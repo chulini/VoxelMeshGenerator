@@ -8,6 +8,10 @@ Uses a color palette from a small texture and load/save the layers as png image 
 # About Greedy Mesh Algorithm
 Greedy mesh algorithm is a technique used to generate voxel meshes in run time optimizing the amount of polygons quick as possible. This algorithm is essential for terrain generation in voxelized games like Minecraft.
 
+A wireframe view of the mesh generated would be this:
+
+![Vertices](https://media.giphy.com/media/dgwr09QTAm0Hefz1IZ/giphy.gif)
+
 Here is an example of voxel mesh techniques made by @[mikolalysenko](https://github.com/mikolalysenko) in Javascript/webGL:
 
 http://mikolalysenko.github.io/MinecraftMeshes/index.html
@@ -16,3 +20,4 @@ http://mikolalysenko.github.io/MinecraftMeshes/index.html
 A complete description of the algorithm can be found here:
 
 https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/
+
